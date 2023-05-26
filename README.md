@@ -6,7 +6,7 @@ A python program that generates programming quotes and jokes.
 - `initiator`: HEMON Noah int 1
 - `contributor-1`: LE NOGUES Antoine int 1
 - `contributor-2`: ROUVRAIS Ian int 1
-- `contributor-3`:  ROUVRAIS Ian int 1
+- `contributor-3`: ROUVRAIS Ian int 1
 
 ## Fork urls
 - `contributor-1`: [quotes-lenogues-int1] https://github.com/AL4594/quotes-lenogues-int1.git 
